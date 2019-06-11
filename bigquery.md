@@ -1,0 +1,2 @@
+# Awesome BigQuery views
+
